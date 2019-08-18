@@ -1,4 +1,3 @@
-import re
 count = int(input())
 price = float(input())
 
